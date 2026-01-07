@@ -1,2 +1,2 @@
 def test_deliberate_failure():
-    assert 2 + 2 == 4 # 
+    assert 2 + 2 == 4  # ✅ This passes
