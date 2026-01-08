@@ -50,7 +50,8 @@ jobs:
           username: ${{ secrets.GMAIL_USER }}
           password: ${{ secrets.GMAIL_PASSWORD }}
           subject: GitHub CI – Python Tests Results
-          to: chokrigammoudi@gmail.com
+          to:  zeidiamira@gmail.com
+          cc: chokri.gammoudi@gmail.com
           from: GitHub Actions
           body: |
             Hello 👋,
