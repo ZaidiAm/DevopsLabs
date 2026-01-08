@@ -67,3 +67,5 @@ jobs:
 
             Regards,
             GitHub Actions 🤖
+            attachments: reports/report.html
+
